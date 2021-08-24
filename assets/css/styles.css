@@ -4,12 +4,19 @@
     object-fit: cover;
 }
 
+
+.navbar-nav{
+  display: flex;
+  text-decoration: blueviolet;
+}
+
 .left-image {
   display: flex;
   justify-content: center;
   align-items: left;
   margin-left: 100px;
   margin-right: auto;
+  padding: 20px;
 }
 
 .right-text {
@@ -41,7 +48,7 @@
 /* Style the accordion panel. Note: hidden by default */
 .panel {
   padding: 0 18px;
-    display: none;
+  display: none;
   overflow: hidden;
 }
 
@@ -53,6 +60,3 @@
   margin-left: 5px;
 }
 
-.active:after {
-  content: "\2796"; /* Unicode character for "minus" sign (-) */
-}

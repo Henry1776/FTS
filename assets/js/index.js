@@ -13,6 +13,12 @@ $(document).ready(function(){
     })
   }) 
 
+
+
+
+    /*code of accordion */
+
+    
   var acc = document.getElementsByClassName("accordion");
 var i;
 
