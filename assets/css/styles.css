@@ -5,13 +5,10 @@
 }
 
 
-
-
 .left-image {
-  display: flex;
   justify-content: center;
   align-items: left;
-  margin-left: 100px;
+  margin-left: 50px;
   margin-right: auto;
   padding: 20px;
 }
@@ -19,8 +16,8 @@
 .right-text {
   width:500px;
   height:400px;
-  margin-left: 200px;
-  margin-right: auto;              
+  margin-left: 50px;
+  padding: 20px;              
 }
 
 
