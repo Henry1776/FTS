@@ -124,3 +124,12 @@ form{
   background: -moz-linear-gradient(top, #cfe6ef 0%, #edfcff 100%);
   background: -webkit-linear-gradient(top, #cfe6ef 0%,#edfcff 100%);
 }
+
+
+.contac_info{
+  width:405px;
+  height:400px;
+  margin-left: 50px;
+  padding: 20px;
+  align-items: left;
+}
